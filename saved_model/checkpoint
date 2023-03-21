@@ -1,0 +1,2 @@
+model_checkpoint_path: "acl18_advlstm"
+all_model_checkpoint_paths: "acl18_advlstm"
